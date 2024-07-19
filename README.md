@@ -7,7 +7,7 @@ I am the Open Actuator Project manager.
 
 ### HomePage & Youtube
 - Actuator·Solenoid Study Group : https://www.solenoid.or.kr
-- Open Source Actuator Project : http://www.openactuator.org
+- Open Source Actuator Project : [http://www.openactuator.org](https://www.solenoid.or.kr/index_eng.html)
 - Simulation and AI  : https://www.youtube.com/@actuator-designer
 - Open Source Actuator Project : https://www.youtube.com/@OpenActuatorProject
 
