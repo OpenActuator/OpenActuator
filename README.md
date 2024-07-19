@@ -7,13 +7,10 @@ I am the Open Actuator Project manager.
 1. Solenoid and VCM expert with experience in theory, CAE, product design and mass production.
 2. AI and simulation-related programmers using C# and Python.
 
-### HomePage
+### HomePage & Youtube
 
 - Actuator·Solenoid Study Group : https://www.solenoid.or.kr
 - Open Source Actuator Project : http://www.openactuator.org
-
-### Youtube
-
 - Simulation and AI  : https://www.youtube.com/@actuator-designer
 - Open Source Actuator Project : https://www.youtube.com/@OpenActuatorProject
 
